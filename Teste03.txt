@@ -1,0 +1,1 @@
+Testar git add exclusão do arquivo e depois git add
