@@ -1,1 +1,2 @@
 Arquivo a ser ignorado
+Teste 2
